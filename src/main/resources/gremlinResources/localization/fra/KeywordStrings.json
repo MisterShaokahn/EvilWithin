@@ -5,7 +5,7 @@
       "agony"
     ],
     "PROPER_NAME": "Agonie",
-    "DESCRIPTION": "Les créatures en #yAgonie infligent #b80% de dégâts en moins avec leurs Attaques."
+    "DESCRIPTION": "Les attaques d'une créature en agonie infligent #b80% de dégâts en moins."
   },
   {
     "NAMES": [
@@ -14,23 +14,17 @@
       "cripple"
     ],
     "PROPER_NAME": "Paralysie",
-    "DESCRIPTION": "Les ennemis #yParalysés ne peuvent plus perdre de #yFaiblesse désormais. À la fin de leur tour, ils perdent des PV d'une quantité égale de leur #yFaiblesse."
+    "DESCRIPTION": "Les ennemis paralysés ne peuvent plus perdre de #yFaiblesse. À la fin de leur tour, ils perdent des PV équivalents à leur #yFaiblesse."
   },
   {
     "NAMES": [
       "écho",
-      "echo"
-    ],
-    "PROPER_NAME": "Écho",
-    "DESCRIPTION": "Un écho est une copie d'une carte avec #yÉthérée et #yÉpuisement."
-  },
-  {
-    "NAMES": [
+      "echo",
       "échos",
       "echoes"
     ],
-    "PROPER_NAME": "Échos",
-    "DESCRIPTION": "Des échos sont des copies d'une carte avec #yÉthérée et #yÉpuisement."
+    "PROPER_NAME": "Écho",
+    "DESCRIPTION": "Un écho est une copie d'une carte avec #yÉthérée et #yÉpuisement."
   },
   {
     "NAMES": [
@@ -40,7 +34,7 @@
       "fat_gremlin"
     ],
     "PROPER_NAME": "Gros diablotin",
-    "DESCRIPTION": "Lorsque vous jouez une Attaque, appliquez #b1 de #yFaiblesse toutes les cibles."
+    "DESCRIPTION": "Lorsque vous jouez une #yAttaque, appliquez #b1 de #yFaiblesse à toutes les cibles."
   },
   {
     "NAMES": [
@@ -50,7 +44,7 @@
       "gremlin_wizard"
     ],
     "PROPER_NAME": "Diablotin sorcier",
-    "DESCRIPTION": "Lorsque vous jouez une Compétence, gagnez #b1 de #yMagie."
+    "DESCRIPTION": "Lorsque vous jouez une #yCompétence, gagnez #b1 de #yMagie."
   },
   {
     "NAMES": [
@@ -70,7 +64,7 @@
       "shield_gremlin"
     ],
     "PROPER_NAME": "Diablotin à bouclier",
-    "DESCRIPTION": "Lorsque vous jouez une Compétence, gagnez #b2 #yd'Armure."
+    "DESCRIPTION": "Lorsque vous jouez une #yCompétence, gagnez #b2 #yd'Armure."
   },
   {
     "NAMES": [
@@ -80,7 +74,7 @@
       "sneaky_gremlin"
     ],
     "PROPER_NAME": "Diablotin sournois",
-    "DESCRIPTION": "Lorsque vous jouez une attaque, Infligez #b3 dégâts à un ennemi aléatoire."
+    "DESCRIPTION": "Lorsque vous jouez une #yAttaque, infligez #b3 dégâts à un ennemi aléatoire."
   },
   {
     "NAMES": [
@@ -96,7 +90,7 @@
       "wiz"
     ],
     "PROPER_NAME": "Magie",
-    "DESCRIPTION": "Lorsque vous avez au moins 3 piles de Magie, les attaques vont consumer toutes les piles pour infliger 10 dégâts supplémentaires."
+    "DESCRIPTION": "Lorsque vous avez au moins #b3 de Magie, vos #yAttaques infligent 10 dégâts supplémentaires, mais retirent toute votre Magie."
   },
   {
     "NAMES": [
@@ -104,7 +98,6 @@
       "steal"
     ],
     "PROPER_NAME": "Vol",
-    "DESCRIPTION": "La cible perd une quantité spécifiée de ressources. Vous gagnez le montant qui a été perdu."
+    "DESCRIPTION": "La cible perd une quantité spécifiée de ressources. Vous en gagnez un montant égal à ce qui a été perdu."
   }
 ]
-
