@@ -1,6 +1,6 @@
 {
   "Gremlin:ImpeccablePecs": {
-    "NAME": "Pectos impeccables",
+    "NAME": "Pecs impeccables",
     "FLAVOR": "Glorieux.",
     "DESCRIPTIONS": [
       "Lorsque vous gagnez de la #yForce, gagnez un nombre équivalent de #yPV #yTemporaires. NL Commencez chaque combat avec #b1 de #yForce."
@@ -76,10 +76,10 @@
     ]
   },
   "Gremlin:ShortStature": {
-    "NAME": "Petite stature",
-    "FLAVOR": "Il est facile de s'en tirer avec des méfaits si vous êtes littéralement sous leur nez.",
+    "NAME": "Petite statue",
+    "FLAVOR": "Elle marche étonnamment bien.",
     "DESCRIPTIONS": [
-      "La première fois qu'un Diablotin serait mort chaque combat, soignez-le de #b75% de ses PV Max à la place.",
+      "La première fois chaque combat qu'un Diablotin est sur le point de mourir, il récupère des PV pour atteindre #b75% de ses PV max à la place.",
       "Déjà utilisé ce combat."
     ]
   },
@@ -133,11 +133,11 @@
     "NAME": "",
     "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Lorsque vous la récupérez, augmentez les PV Max de tous vos Diablotins de #b",
-      "Lorsque vous ajoutez des cartes dans votre deck, vous pouvez à la place augmenter les PV Max de tous vos Diablotins de #b1.",
-      " #yOr. NL Augmentez les PV Max de tous vos Diablotins de #b",
+      "Lorsque vous la récupérez, augmentez les PV max de tous vos Diablotins de #b",
+      "Lorsque vous ajoutez des cartes dans votre deck, vous pouvez à la place augmenter les PV max de tous vos Diablotins de #b1.",
+      " #yOr. NL Augmentez les PV max de tous vos Diablotins de #b",
       "À la fin de chaque 5ème combat, augmentez les PV Max de tous vos Diablotins de #b1.",
-      "+1 PV Max"
+      "+1 PV max"
     ]
   } 
 }
