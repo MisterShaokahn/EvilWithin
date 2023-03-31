@@ -16,17 +16,17 @@
   },
   "Gremlin:KnowingSkull": {
     "OPTIONS": [
-      "[Une Information?] #gRévélez #gle #gBoss. #rTous #rles #rDiablotins #rperdent #r",
-      "[Du Succès?] #gGagnez #gune #gCarte #gIncolore. #rTous #rles #rDiablotins #rperdent #r",
-      "[Un Remontant?] #gGet #ga #gPotion. #rTous #rles #rDiablotins #rperdent #r",
+      "[Une Information ?] #gRévélez #gle #gBoss. #rTous #rles #rDiablotins #rperdent #r",
+      "[Du Succès ?] #gGagnez #gune #gCarte #gIncolore. #rTous #rles #rDiablotins #rperdent #r",
+      "[Un Remontant ?] #gGet #ga #gPotion. #rTous #rles #rDiablotins #rperdent #r",
       " #gGold. #rTous #rles #rDiablotins #rperdent #r",
-      "[How do I leave?] #rTous #rles #rDiablotins #rperdent #r"
+      "[Comment sortir d'ici ?] #rTous #rles #rDiablotins #rperdent #r"
 
     ]
   },
   "Gremlin:MatchingGame": {
     "DESCRIPTIONS": [
-      "\" #bDouze cartes! Faites-les correspondre pour les garder! #bCinq essais-\" NL NL Vous l'interrompez : \" #bDix essais!\". NL NL Le Diablotin grimace. \" #bCinq essais!\" NL NL \" #bHuit.\" NL NL \" #bSix,\" crache-t-il. \"Et j'espère que vous soyez #pMaudit.\" NL NL Vous espérez qu'il soit #pMaudit.",
+      "\" #bDouze cartes! Faites-les correspondre pour les garder! #bCinq essais-\" NL NL Vous l'interrompez : \" #bDix essais!\". NL NL Le Diablotin grimace. \" #bCinq essais!\" NL NL \" #bHuit.\" NL NL \" #bSix,\" crache-t-il. \"Et j'espère que vous serez #pMaudit.\" NL NL Vous espérez qu'il sera #pMaudit.",
       "Vous terminez le jeu du diablotin et relevez la tête. NL Il s'est enfui avant que vous ne puissiez avoir plus #y~d'objets~ #y~gratuits!~ ",
       "Un diablotin mélange frénétiquement des cartes sur une table. Il semble offrir des #y~trucs~ #y~gratuits.~ Vous voulez des #y~trucs~ #y~gratuits.~ "
     ]
