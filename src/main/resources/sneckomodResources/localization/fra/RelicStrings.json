@@ -104,8 +104,8 @@
     "NAME": "Sceau d'approbation",
     "FLAVOR": "Je suis le Soldat de Fer et ceci est ma Relique favorite de la Tour.  -Brochure de publicité pour le Marchand",
     "DESCRIPTIONS": [
-      "Lorsque vous le ramassez, choisissez #b1 parmi #b3 cartes #yInconnues #yd'un #yPersonnage. Les cartes #Inconnues d'autres Personnages n'apparaissent plus.",
-      "Toutes les cartes Inconnues dans les récompenses futures seront des cartes de ",
+      "Lorsque vous le ramassez, choisissez #b1 parmi #b3 cartes #yInconnues #yde #yPersonnages. Les cartes #yInconnues d'autres Personnages n'apparaissent plus.",
+      "Toutes les cartes Inconnues de Personnage dans les récompenses futures seront des cartes de ",
       " ."
     ]
   },
