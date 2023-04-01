@@ -97,8 +97,8 @@
 
   "Gremlin:Duplicate": {
     "NAME": "Duplication",
-    "DESCRIPTION": "Créez !M! gremlin:Échos d'une Attaque de votre main. Ils coûtent 1 de moins. Épuisement.",
-    "UPGRADE_DESCRIPTION": "Créez !M! gremlin:Échos d'une Attaque de votre main. Ils coûtent 1 de moins."
+    "DESCRIPTION": "Créez !M! gremlin:Échos d'une Attaque de votre main. Réduisez leut coût de 1. Épuisement.",
+    "UPGRADE_DESCRIPTION": "Créez !M! gremlin:Échos d'une Attaque de votre main. Réduisez leur coût de 1."
   },
 
   "Gremlin:EdibleArmor": {
@@ -377,7 +377,7 @@
 
   "Gremlin:Scatter": {
     "NAME": "Dispersez-vous!",
-    "DESCRIPTION": "La prochaine fois que vous perdez des PV, à la place gremlin:Permutez au Diablotin suivant. NL Épuisement."
+    "DESCRIPTION": "La prochaine fois que vous perdez des PV, à la place, gremlin:Permutez vers le Diablotin suivant. NL Épuisement."
   },
 
   "Gremlin:SecondVolley": {
