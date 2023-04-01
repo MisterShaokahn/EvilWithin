@@ -248,7 +248,7 @@
   "sneckomod:UnknownDexterity": {
     "NAME": "??? Dextérité",
     "DESCRIPTION": "Carte *Inconnue qui donne de la Dextérité.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Dextérité."
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Dextérité."
   },
   "sneckomod:UnknownDraw": {
     "NAME": "??? Pioche",
@@ -283,7 +283,7 @@
   "sneckomod:UnknownStrength": {
     "NAME": "??? Force",
     "DESCRIPTION": "Carte *Inconnue qui donne de la Force.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Force."
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Force."
   },
   "sneckomod:UnknownStrike": {
     "NAME": "??? Frappe",
@@ -308,12 +308,12 @@
   "sneckomod:UnknownVulnerable": {
     "NAME": "??? Vulnérabilité",
     "DESCRIPTION": "Carte *Inconnue qui donne de la Vulnérabilité.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Vulnérabilité."
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Vulnérabilité."
   },
   "sneckomod:UnknownWeak": {
     "NAME": "??? Faiblesse",
     "DESCRIPTION": "Carte *Inconnue qui donne de la Faiblesse.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Faiblesse."
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Faiblesse."
   },
   "sneckomod:UnknownX": {
     "NAME": "??? coûtant X",
