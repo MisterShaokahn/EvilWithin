@@ -5,7 +5,7 @@
       "agony"
     ],
     "PROPER_NAME": "Agonie",
-    "DESCRIPTION": "Les attaques d'une créature en agonie infligent #b80% de dégâts en moins."
+    "DESCRIPTION": "Les attaques d'une créature en agonie infligent #b80 #b% de dégâts en moins."
   },
   {
     "NAMES": [
@@ -90,7 +90,7 @@
       "wiz"
     ],
     "PROPER_NAME": "Magie",
-    "DESCRIPTION": "Lorsque vous avez au moins #b3 de Magie, vos #yAttaques infligent 10 dégâts supplémentaires, mais retirent toute votre Magie."
+    "DESCRIPTION": "Lorsque vous avez au moins #b3 de Magie, vos #yAttaques infligent #b10 dégâts supplémentaires, mais retirent toute votre Magie."
   },
   {
     "NAMES": [
@@ -99,5 +99,12 @@
     ],
     "PROPER_NAME": "Vol",
     "DESCRIPTION": "La cible perd une quantité spécifiée de ressources. Vous en gagnez un montant égal à ce qui a été perdu."
+  },
+  {
+    "NAMES": [
+      "nob"
+    ],
+    "PROPER_NAME": "Diablotin Nob",
+    "DESCRIPTION": "Au début de votre tour, ajoutez #ySoufflet, #yBriser #yle #yCrâne et #yRuée à votre main."
   }
 ]
