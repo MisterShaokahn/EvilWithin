@@ -113,7 +113,7 @@
     "NAME": "Fer à cheval porte-bonheur",
     "FLAVOR": "Moi je fabrique ma chance - Vieux monsieur.",
     "DESCRIPTIONS": [
-      "Lorsque vous le ramassez, choisissez #b1 parmi #b3 cartes #yInconnues #yd'un #yPersonnage. Ajoutez #b5 copies de celle-ci à votre deck. Tous les combats donnent en récompense supplémentaire une carte de ce personnage.",
+      "Lorsque vous le ramassez, choisissez #b1 parmi #b3 cartes #yInconnues #yde #yPersonnages. Ajoutez-en #b5 copies à votre deck. Tous les combats donnent en récompense supplémentaire une carte de ce personnage.",
       "Lorsque vous le ramassez, obtenez #b5 cartes #yInconnues de ",
       " . Tous les combats donnent une carte récompense supplémentaire de ",
       " ."
