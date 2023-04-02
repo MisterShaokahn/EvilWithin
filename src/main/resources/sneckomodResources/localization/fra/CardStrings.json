@@ -51,7 +51,7 @@
   "sneckomod:Nope": {
     "NAME": "Nope",
     "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe. Elle coûte 1 [E] de moins.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe au coût réduit de 1.",
     "EXTENDED_DESCRIPTION": [
       " à Épuiser pour Nope."
     ]
@@ -84,8 +84,8 @@
   },
   "sneckomod:PureSnecko": {
     "NAME": "Shift",
-    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant avec des nouvelles them with new ones.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant avec des nouvelles qui coûtent 1 [E] de moins."
+    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant par de nouvelles them with new ones.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant par de nouvelles au coût réduit de 1."
   },
   "sneckomod:QuickBite": {
     "NAME": "Coupe du serpent",
