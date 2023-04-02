@@ -10,7 +10,7 @@
   },
   "sneckomod:DangerNoodle": {
     "NAME": "Danger Noodle",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Répétez ceci pour chaque carte sneckomod:Hors-Classe dans votre main, puis Épuisez ces cartes."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Répétez ceci pour chaque carte sneckomod:Hors-Classe de votre main, puis Épuisez ces cartes."
   },
   "sneckomod:Defend": {
     "NAME": "Défense",
@@ -50,8 +50,8 @@
   },
   "sneckomod:Nope": {
     "NAME": "Nope",
-    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe au coût réduit de 1.",
+    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. Remplacez-la par une carte aléatoire de la même classe.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. Remplacez-la par une carte aléatoire de la même classe et réduisez con coût de 1.",
     "EXTENDED_DESCRIPTION": [
       " à Épuiser pour Nope."
     ]
@@ -84,8 +84,8 @@
   },
   "sneckomod:PureSnecko": {
     "NAME": "Shift",
-    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant par de nouvelles them with new ones.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant par de nouvelles au coût réduit de 1."
+    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe de votre main. Remplacez-les par de nouvelles.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe de votre main. Remplacez-les par de nouvelles et réduisez leur coût de 1."
   },
   "sneckomod:QuickBite": {
     "NAME": "Coupe du serpent",
