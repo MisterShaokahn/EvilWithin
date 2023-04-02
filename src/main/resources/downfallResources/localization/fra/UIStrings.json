@@ -71,7 +71,7 @@
       "L'Énergie actuelle de l'ennemi. Les cartes requièrent de l'énergie pour les jouer."
     ],
     "EXTRA_TEXT": [
-      "Energy"
+      "Énergie"
     ]
   },
   "downfall:RemoveCardReward": {
@@ -97,12 +97,12 @@
       "Choisissez 1 Relique de Boss parmi 3 à obtenir.",
       "Obtenez un ",
       ".",
-      "Choisissez une Relique.. en quelque sorte"
+      "Choisissez une Relique... en quelque sorte"
     ]
   },
   "downfall:EtherealMod": {
     "TEXT": [
-      "Ethérée. NL "
+      "Éthérée. NL "
     ]
   },
   "downfall:JaxReward": {
