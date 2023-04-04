@@ -254,7 +254,7 @@
 
   "Gremlin:Kablamo": {
     "NAME": "Kablamo!",
-    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Cette attaque ne consume pas de gremlin:Magie."
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Cette attaque ne consomme pas de gremlin:Magie."
   },
 
   "Gremlin:LeaderChoice": {
