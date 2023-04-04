@@ -10,7 +10,7 @@
   },
   "sneckomod:DangerNoodle": {
     "NAME": "Danger Noodle",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Répétez ceci pour chaque carte sneckomod:Hors-Classe dans votre main, puis Épuisez ces cartes."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Répétez ceci pour chaque carte sneckomod:Hors-Classe de votre main, puis Épuisez ces cartes."
   },
   "sneckomod:Defend": {
     "NAME": "Défense",
@@ -50,8 +50,8 @@
   },
   "sneckomod:Nope": {
     "NAME": "Nope",
-    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. NL Remplacez-la par une carte aléatoire de la même classe. Elle coûte 1 [E] de moins.",
+    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. Remplacez-la par une carte aléatoire de la même classe.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez une carte de votre main. Remplacez-la par une carte aléatoire de la même classe et réduisez con coût de 1.",
     "EXTENDED_DESCRIPTION": [
       " à Épuiser pour Nope."
     ]
@@ -84,8 +84,8 @@
   },
   "sneckomod:PureSnecko": {
     "NAME": "Shift",
-    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant avec des nouvelles them with new ones.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe dans votre main, les remplaçant avec des nouvelles qui coûtent 1 [E] de moins."
+    "DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe de votre main. Remplacez-les par de nouvelles.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Gekoproof. NL Épuisez toutes les cartes sneckomod:Hors-Classe de votre main. Remplacez-les par de nouvelles et réduisez leur coût de 1."
   },
   "sneckomod:QuickBite": {
     "NAME": "Coupe du serpent",
@@ -247,8 +247,8 @@
   },
   "sneckomod:UnknownDexterity": {
     "NAME": "??? Dextérité",
-    "DESCRIPTION": "Carte *Inconnue qui donne de la Dextérité.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Dextérité."
+    "DESCRIPTION": "Carte *Inconnue qui affecte la Dextérité.",
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Dextérité."
   },
   "sneckomod:UnknownDraw": {
     "NAME": "??? Pioche",
@@ -282,8 +282,8 @@
   },
   "sneckomod:UnknownStrength": {
     "NAME": "??? Force",
-    "DESCRIPTION": "Carte *Inconnue qui donne de la Force.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Force."
+    "DESCRIPTION": "Carte *Inconnue qui affecte la Force.",
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Force."
   },
   "sneckomod:UnknownStrike": {
     "NAME": "??? Frappe",
@@ -307,13 +307,13 @@
   },
   "sneckomod:UnknownVulnerable": {
     "NAME": "??? Vulnérabilité",
-    "DESCRIPTION": "Carte *Inconnue qui donne de la Vulnérabilité.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Vulnérabilité."
+    "DESCRIPTION": "Carte *Inconnue qui affecte la Vulnérabilité.",
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Vulnérabilité."
   },
   "sneckomod:UnknownWeak": {
     "NAME": "??? Faiblesse",
-    "DESCRIPTION": "Carte *Inconnue qui donne de la Faiblesse.",
-    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Faiblesse."
+    "DESCRIPTION": "Carte *Inconnue qui affecte la Faiblesse.",
+    "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui affecte la Faiblesse."
   },
   "sneckomod:UnknownX": {
     "NAME": "??? coûtant X",

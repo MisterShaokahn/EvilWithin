@@ -7,16 +7,16 @@
     ]
   },
   "gremlin:NecromancyPotion": {
-    "NAME": "Diablotin dans une boîte",
+    "NAME": "Diablotin dans un bocal",
     "DESCRIPTIONS": [
       "Ressucitez un Diablotin aléatoire à #b",
-      "% de vos PV Max."
+      "% de ses PV Max."
     ]
   },
   "gremlin:SwapPotion": {
     "NAME": "Leurre embouteillé",
     "DESCRIPTIONS": [
-      "#ySwap to a random Gremlin."
+      "#yPermutez vers un Diablotin aléatoire."
     ]
   },
   "gremlin:WizPotion": {

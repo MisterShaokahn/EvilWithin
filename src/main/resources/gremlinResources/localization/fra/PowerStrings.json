@@ -11,7 +11,7 @@
   "Gremlin:Bang": {
     "NAME": "Bang",
     "DESCRIPTIONS": [
-      "La prochaine attaque que vous jouez consume toutes les piles de #yMagie eyt inflige #b", " dégâts supplémentaires."
+      "La prochaine attaque que vous jouez consume toutes les piles de #yMagie et inflige #b", " dégâts supplémentaires."
     ]
   },
   "Gremlin:Bashed": {
@@ -27,7 +27,7 @@
     ]
   },
   "Gremlin:CongaLine": {
-    "NAME": "Ligne de Conga",
+    "NAME": "Queue leu-leu",
     "DESCRIPTIONS": [
       "Au début de votre tour, gagnez ",
       "et #yPermutez au prochain Diablotin."
@@ -36,7 +36,7 @@
   "Gremlin:Crippled": {
     "NAME": "Paralysé",
     "DESCRIPTIONS": [
-      "La #yFaiblesse ne se perd plus. À la fin du tour, cet ennemi perd des PV équivalents à sa #bFaiblesse."
+      "La #yFaiblesse ne diminue plus. À la fin du tour, cet ennemi perd des PV équivalents à sa #bFaiblesse."
     ]
   },
   "Gremlin:Encore": {
@@ -76,7 +76,7 @@
   "Gremlin:GremlinNob": {
     "NAME": "Diablotin Nob",
     "DESCRIPTIONS": [
-      "Au début de chaque tour, ajoutez #b3 cartes de Diablotin Nob dans votre main. Vous ne pouvez plus #yPermuter désormais. Lorsque vous perdez tous vos #yPV #yTemporaires, empêchez les dégâts suivants et renvoyez-les."
+      "Au début de chaque tour, ajoutez les #b3 cartes du Diablotin Nob à votre main. Vous ne pouvez pas #yPermuter. Lorsque vous perdez tous vos #yPV #yTemporaires, empêchez les dégâts suivants et perdez cette transformation."
     ]
   },
   "Gremlin:GremlinWizard": {
@@ -97,8 +97,8 @@
     "NAME": "Armure infinie",
     "DESCRIPTIONS": [
       "Au début de votre tour, ajoutez #b",
-      " #yProtection dans votre main.",
-      " #yProtections dans votre main."
+      " #yProtection à votre main.",
+      " #yProtections à votre main."
     ]
   },
   "Gremlin:MadGremlin": {
@@ -121,16 +121,16 @@
     "NAME": "Faire de la magie",
     "DESCRIPTIONS": [
       "Au début de votre prochain tour, ajoutez #b",
-      " copie de #yBang dans votre main.",
-      " copies de #yBang dans votre main."
+      " copie de #yBang à votre main.",
+      " copies de #yBang à votre main."
     ]
   },
   "Gremlin:MakingMoreMagic": {
     "NAME": "Faire de la Magie+",
     "DESCRIPTIONS": [
       "Au début de votre prochain tour, ajoutez #b",
-      " copie #yAméliorée de #yBang dans votre main.",
-      " copies #yAméliorées de #yBang dans votre main."
+      " copie #yAméliorée de #yBang à votre main.",
+      " copies #yAméliorées de #yBang à votre main."
     ]
   },
   "Gremlin:Polish": {
@@ -187,7 +187,7 @@
     "NAME": "Magie",
     "DESCRIPTIONS": [
       "En train de charger. NL Besoin de #b", " pile de plus.", " piles de plus.",
-      "Ready to fire."
+      "Prêt à tout envoyer."
     ]
   },
   "Gremlin:Wizardry": {

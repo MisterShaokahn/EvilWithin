@@ -9,7 +9,7 @@
   },
   "Slimebound:CheckThePlaybook": {
     "NAME": "Manuel stratégique",
-    "DESCRIPTION": "Ajoutez 4 \"Tacles\" à votre main. Elles coûtent 1 [E] de moins durant ce combat. NL Épuisement."
+    "DESCRIPTION": "Ajoutez 4 \"Tacles\" à votre main. Réduisez leur coût de 1 ce combat. NL Épuisement."
   },
   "Slimebound:Chomp": {
     "NAME": "Mastication",
@@ -35,12 +35,12 @@
   },
   "Slimebound:DisruptingSlam": {
     "NAME": "À table !",
-    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL expansioncontent:Exhumez !M! cartes *Léchouille aléatoires."
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL expansioncontent:Exhumez !M! cartes \"Léchouille\" aléatoires."
   },
   "Slimebound:Dissolve": {
     "NAME": "Casse-croûte",
-    "DESCRIPTION": "Piochez !M! carte, puis Épuisez une carte. Ajoutez à votre main un nombre de *Léchouille égal au coût de la carte Épuisée. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Piochez !M! cartes, puis Épuisez une carte. Ajoutez à votre main un nombre de *Léchouille égal au coût de la carte Épuisée. NL Épuisement."
+    "DESCRIPTION": "Piochez !M! carte, puis Épuisez une carte de votre main. Ajoutez à votre main un nombre de *Léchouille égal à son coût. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Piochez !M! cartes, puis Épuisez une carte de votre main. Ajoutez à votre main un nombre de *Léchouille égal à son coût. NL Épuisement."
   },
   "Slimebound:DivideAndConquer": {
     "NAME": "Diviser pour régner",
@@ -60,7 +60,7 @@
   },
   "Slimebound:Equalize": {
     "NAME": "Égalisation",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Soignez-vous de !M! PV. NL slimeboundmod:Consumez - Jouez cette carte deux fois. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Soignez-vous de !M! PV. NL slimeboundmod:Consumez - Jouez cette carte une deuxième fois. NL Épuisement."
   },
   "Slimebound:FinishingTackle": {
     "NAME": "Tacle d'ouverture",
@@ -72,7 +72,7 @@
   },
   "Slimebound:FlameTackle": {
     "NAME": "Tacle enflammé",
-    "DESCRIPTION": "Infligez !D! dégâts. Subissez !SlimeboundSelfharm! dégâts. NL Vos \"Tacles\" infligent !M! dégâts supplémentaires ce combat."
+    "DESCRIPTION": "Infligez !D! dégâts. Subissez !SlimeboundSelfharm! dégâts. NL Vos \"Tacles\" infligent !M! dégâts de plus ce combat."
   },
   "Slimebound:FormOfPuddle": {
     "NAME": "Forme de flaque",
@@ -117,13 +117,13 @@
   },
   "Slimebound:ItLooksTasty": {
     "NAME": "Ça a l'air bon",
-    "DESCRIPTION": "Infligez !D! dégâts. slimeboundmod:Consumez - Ajoutez une *Léchouille dans votre main.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. slimeboundmod:Consumez - Ajoutez une *Léchouille+ dans votre main."
+    "DESCRIPTION": "Infligez !D! dégâts. slimeboundmod:Consumez - Ajoutez une *Léchouille à votre main.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. slimeboundmod:Consumez - Ajoutez une *Léchouille+ à votre main."
   },
   "Slimebound:LeadByExample": {
     "NAME": "Montrer l'exemple",
     "DESCRIPTION": "La première carte que vous jouez chaque tour et qui cible un ennemi slimeboundmod:Commande également.",
-    "UPGRADE_DESCRIPTION": "Les !M! premières cartes que vous jouez chaque tour et qui cible un ennemi slimeboundmod:Commande également."
+    "UPGRADE_DESCRIPTION": "Les !M! premières cartes que vous jouez chaque tour et qui ciblent un ennemi slimeboundmod:Commandent également."
   },
   "Slimebound:LeechEnergy": {
     "NAME": "Énergie parasite",
@@ -154,12 +154,12 @@
   },
   "Slimebound:MassFeed": {
     "NAME": "Appétit massif",
-    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Si cette attaque est Fatale, augmentez vos PV Max de !M!. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Si cette attaque est Fatale, augmentez vos PV max de !M!. NL Épuisement."
   },
   "Slimebound:MassRepurpose": {
     "NAME": "Conversion de masse",
-    "DESCRIPTION": "slimeboundmod:Absorbez TOUS les Slimes. NL Divisez-vous en un Slime slimeboundmod:Spécialiste aléatoire pour chaque Slime slimeboundmod:Absorbé. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbez TOUS les Slimes. NL Divisez-vous en un Slime slimeboundmod:Spécialiste aléatoire pour chaque Slime slimeboundmod:Absorbé, puis slimeboundmod:Commandez-les tous. NL Épuisement."
+    "DESCRIPTION": "slimeboundmod:Absorbez TOUS les Slimes. NL Divisez-vous en un slimeboundmod:Spécialiste aléatoire par Slime slimeboundmod:Absorbé. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbez TOUS les Slimes. NL Divisez-vous en un slimeboundmod:Spécialiste aléatoire par Slime slimeboundmod:Absorbé, puis slimeboundmod:Commandez-les tous. NL Épuisement."
   },
   "Slimebound:MegaLick": {
     "NAME": "Méga-Léchouille",
@@ -168,13 +168,13 @@
   },
   "Slimebound:MinionMaster": {
     "NAME": "Maître des sbires",
-    "DESCRIPTION": "Lorsque vous jouez une carte avec l'effet slimeboundmod:Commande, slimeboundmod:Commandez encore.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Lorsque vous jouez une carte avec l'effet slimeboundmod:Commande, slimeboundmod:Commandez encore."
+    "DESCRIPTION": "Lorsque vous jouez une carte qui slimeboundmod:Commande, slimeboundmod:Commandez à nouveau.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Lorsque vous jouez une carte qui slimeboundmod:Commande, slimeboundmod:Commandez à nouveau."
   },
   "Slimebound:Nibble": {
-    "NAME": "Grignoter et lécher",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez une *Léchouille dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez une *Léchouille dans votre main. NL Piochez une carte. NL Épuisement."
+    "NAME": "Grignotage et léchouille",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez une *Léchouille à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez une *Léchouille à votre main. NL Piochez une carte. NL Épuisement."
   },
   "Slimebound:OneTwoCombo": {
     "NAME": "Combo Un-Deux",
@@ -252,8 +252,8 @@
   },
   "Slimebound:Repurpose": {
     "NAME": "Conversion",
-    "DESCRIPTION": "slimeboundmod:Absorbez - Divisez-vous en un Slime slimeboundmod:Spécialiste aléatoire. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbez - Divisez-vous en un Slime slimeboundmod:Spécialiste aléatoire. NL slimeboundmod:Commandez. NL Épuisement."
+    "DESCRIPTION": "slimeboundmod:Absorbez - Divisez-vous en un slimeboundmod:Spécialiste aléatoire. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbez - Divisez-vous en un slimeboundmod:Spécialiste aléatoire. NL slimeboundmod:Commandez. NL Épuisement."
   },
   "Slimebound:RollThrough": {
     "NAME": "Rouler au travers",
@@ -267,7 +267,7 @@
   "Slimebound:Schlurp": {
     "NAME": "Sslurp",
     "DESCRIPTION": "Appliquez !slime! de slimeboundmod:Goop. NL Ajoutez !M! *Léchouille à votre main.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez !M! *Léchouilles à votre main."
+    "UPGRADE_DESCRIPTION": "Appliquez !slime! de slimeboundmod:Goop. NL Ajoutez !M! *Léchouilles à votre main."
   },
   "Slimebound:SelfFormingGoo": {
     "NAME": "Reformation",
@@ -275,7 +275,7 @@
   },
   "Slimebound:ServeAndProtect": {
     "NAME": "Servir et Protéger",
-    "DESCRIPTION": "Gagnez !B! d'Armure et 1 bronze:Flou pour chaque Slime. NL slimeboundmod:Absorbez tous les Slimes. NL Épuisement."
+    "DESCRIPTION": "Gagnez !B! d'Armure et 1 bronze:Flou par Slime. NL slimeboundmod:Absorbez tous les Slimes. NL Épuisement."
   },
   "Slimebound:SlimeBarrage": {
     "NAME": "Empilez-les!",
@@ -284,7 +284,7 @@
   },
   "Slimebound:SlimeBrawl": {
     "NAME": "Baston de Slimes",
-    "DESCRIPTION": "Jouez la carte au-dessus de votre pioche. Répétez ceci pour chacun de vos Slimes. NL Épuisement."
+    "DESCRIPTION": "Jouez la première carte de votre pioche. Récommencez pour chacun de vos Slimes. NL Épuisement."
   },
   "Slimebound:SlimeCrush": {
     "NAME": "SLIME CRUSH!!!",
@@ -357,9 +357,9 @@
     "DESCRIPTION": "Infligez !D! dégâts. Subissez !SlimeboundSelfharm! dégâts."
   },
   "Slimebound:TagTeam": {
-    "NAME": "Tandem",
+    "NAME": "Coup visqueux",
     "DESCRIPTION": "Infligez !D! dégâts. NL slimeboundmod:Divisez-vous en un Slime aléatoire. NL slimeboundmod:Commandez !M! fois.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL slimeboundmod:Divisez-vous en un Slime slimeboundmod:Spécialiste aléatoire. NL slimeboundmod:Commandez !M! fois."
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL slimeboundmod:Divisez-vous en un slimeboundmod:Spécialiste aléatoire. NL slimeboundmod:Commandez !M! fois."
   },
   "Slimebound:Teamwork": {
     "NAME": "Travail d'équipe",

@@ -4,7 +4,7 @@
       "DIABLOTINS CHÉTIFS DONNENT ÂMES!",
       "Toi, le Coléreux. Tu es à moi maintenant.",
       "Toi, le Gros. Tu es à moi maintenant.",
-      "Toi, la Fille. Tu es à moi maintenant.",
+      "Toi, la Femmelette. Tu es à moi maintenant.",
       "Toi, le Nerveux. Tu es à moi maintenant.",
       "Toi. l'Abruti. Tu es à moi maintenant.",
       "Toi. Tu es à moi maintenant.",
@@ -48,7 +48,7 @@
   "Gremlin:ArtMode": {
     "TEXT": [
       "Art Diablotin",
-      "Les diablotins sont sur les cartes. N'impacte que l'esthétique. Permet de trouver des synergies plus facilement."
+      "Les diablotins envahissent les cartes. N'impacte que l'esthétique. Permet de trouver des synergies plus facilement."
     ]
   },
   "Gremlin:BonusGold": {
