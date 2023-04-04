@@ -453,7 +453,7 @@
   "Gremlin:Tadah": {
     "NAME": "Tadam !",
     "DESCRIPTION": "Ajoutez un gremlin:Écho d'une *Compétence aléatoire à votre main. NL gremlin:Permutez vers le gremlin:Diablotin_Sorcier.",
-    "UPGRADE_DESCRIPTION": "Ajoutez un gremlin:Écho d'une *Compétence aléatoire à votre main. Elle coûte 1 [E] de moins. NL gremlin:Permutez vers le gremlin:Diablotin_Sorcier."
+    "UPGRADE_DESCRIPTION": "Ajoutez un gremlin:Écho d'une *Compétence aléatoire à votre main. Réduisez son coût de 1. NL gremlin:Permutez vers le gremlin:Diablotin_Sorcier."
   },
 
   "Gremlin:TagTeam": {
