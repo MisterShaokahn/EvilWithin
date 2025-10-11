@@ -404,7 +404,7 @@
   },
   "Guardian:OmegaCannon": {
     "NAME": "Canon Oméga",
-    "DESCRIPTION": "Deal !D! damage. NL Coûte 1 [E] de moins pour chaque Force que vous avez."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Coûte 1 [E] de moins pour chaque Force que vous avez."
   },
   "Guardian:ModeShift": {
     "NAME": "Changement de mode",
