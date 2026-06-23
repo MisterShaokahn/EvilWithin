@@ -21,8 +21,7 @@
   },
   "expansioncontent:LastStand": {
     "NAME": "Vent final",
-    "DESCRIPTION": "Retirez tous vos Débuffs. NL Gagnez 1 de Force. NL Si vous êtes en-dessous de la moitié de vos PV, gagnez 2 de Force.",
-    "UPGRADE_DESCRIPTION": "Retirez tous vos Débuffs. NL Gagnez 1 de Force. NL Si vous êtes en-dessous de la moitié de vos PV, soignez-vous de !M! PV et gagnez 2 de Force."
+    "DESCRIPTION": "Retirez tous vos Débuffs. NL Gagnez 1 de Force."
   },
   "expansioncontent:YouAreMine": {
     "NAME": "VOUS ÊTES À MOI !!!",
@@ -47,7 +46,7 @@
   },
   "expansioncontent:ShapePower": {
     "NAME": "Béndiction de la Forme",
-    "DESCRIPTION": "Choisissez - Gagnez !M! de Force ou !DM! d'Armure Plaquée.",
+    "DESCRIPTION": "Gagnez !M! de Force et !DM! d'Armure expansioncontent:Plaquée.",
     "EXTENDED_DESCRIPTION": [
       "Pouvoir de Donu",
       "Gagnez !M! de Force.",
@@ -55,7 +54,7 @@
       "Gagnez !M! d'Armure Plaquée."
     ]
   },
-  "expansioncontent:PrepareCrush": {
+  "expansioncontent:SuperPrepareCrush": {
     "NAME": "Prépration du Crush",
     "DESCRIPTION": "Au prochain tour, obtenez *SLIME *CRUSH, [E] [E] [E] et !M! de Force. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Au prochain tour, obtenez *SLIME *CRUSH+, [E] [E] [E] [E] et !M! de Force. NL Épuisement.",
@@ -129,7 +128,7 @@
   },
   "expansioncontent:BeatOfDeath": {
     "NAME": "Pulsation de la Mort",
-    "DESCRIPTION": "Whenever you play a card, deal !M! damage to ALL enemies."
+    "DESCRIPTION": "Lorsque vous jouez une carte, infligez !M! dégâts à TOUS les ennemis."
   },
   "expansioncontent:SuperViciousMockery": {
     "NAME": "Moquerie",
